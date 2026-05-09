@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "tonemapping": "none",
+  "tonemapping": "linear",
   "highPrecisionRendering": false,
   "background": {
-    "color": [0, 0, 0]
+    "color": [0.1, 0.1, 0.15]
   },
   "postEffectSettings": {
     "sharpness": {
