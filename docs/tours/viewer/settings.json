@@ -3,12 +3,12 @@
   "tonemapping": "linear",
   "highPrecisionRendering": false,
   "background": {
-    "color": [0.1, 0.1, 0.15]
+    "color": [0.05, 0.05, 0.08]
   },
   "postEffectSettings": {
     "sharpness": {
-      "enabled": false,
-      "amount": 0
+      "enabled": true,
+      "amount": 0.5
     },
     "bloom": {
       "enabled": false,
@@ -16,10 +16,10 @@
       "blurLevel": 2
     },
     "grading": {
-      "enabled": false,
-      "brightness": 0,
-      "contrast": 1,
-      "saturation": 1,
+      "enabled": true,
+      "brightness": 0.05,
+      "contrast": 1.1,
+      "saturation": 1.1,
       "tint": [1, 1, 1]
     },
     "vignette": {
