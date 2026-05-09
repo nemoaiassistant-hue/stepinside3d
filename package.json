@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@playcanvas/supersplat-viewer": "^1.22.4"
+  }
+}
