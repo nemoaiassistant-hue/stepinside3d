@@ -7,5 +7,6 @@
   "camera": {
     "fov": 60
   },
+  "annotations": [],
   "animTracks": []
 }
